@@ -1,5 +1,5 @@
 {
-    "name": "pxt-nerdland-m1",
+    "name": "pxt-missie1",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -7,9 +7,18 @@
         "builder": "*"
     },
     "files": [
-        "README.md",
+        "t_ex1.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "t_no_exercise.md",
+        "custom_functions.ts",
+        "t_ex2.md",
+        "t_ex1_56.md",
+        "custom_functions_EN.ts",
+        "_locales/nl/t_ex1.md",
+        "_locales/nl/t_ex1_56.md",
+        "_locales/nl/t_ex2.md",
+        "_locales/nl/t_no_exercise.md"
     ],
     "testFiles": [
         "test.ts"
@@ -22,5 +31,5 @@
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
